@@ -1,0 +1,11 @@
+.form{
+    width: 80%;
+    margin: auto;
+}
+
+.form form{
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color:#F7F7F7;
+    border-radius: 24px;
+}

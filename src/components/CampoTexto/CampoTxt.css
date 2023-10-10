@@ -1,0 +1,19 @@
+.txt{
+    margin: 24px 0;
+}
+
+.txt label{
+    display: block;
+    font-size: 24px;
+    padding-bottom: 8px;
+
+}
+
+.txt input{
+    width: 100%;
+    box-shadow: 10px 10px 30px rgb(0, 0, 0.036) ;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+}
